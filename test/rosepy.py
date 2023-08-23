@@ -1,3 +1,4 @@
+#turtle drawing (rose)
 from turtle import *
 import turtle as tur
 
